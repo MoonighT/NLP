@@ -1,0 +1,16 @@
+
+Cory Doctorow:
+Today on Slashdot, a message board challenge to assemble a catalog of favority math and logic riddles. There are some doozies, too:
+
+There is a king and there are his n prisoners. The king has a dungeon in his castle that is shaped like a circle, and has n cell doors around the perimeter, each leading to a separate, utterly sound proof room. When within the cells, the prisoners have absolutely no means of communicating with each other.
+
+The king sits in his central room and the n prisoners are all locked in their sound proof cells. In the king's central chamber is a table with a single chalice sitting atop it. Now, the king opens up a door to one of the prisoners' rooms and lets him into the room, but always only one prisoner at a time! So he lets in just one of the prisoners, any one he chooses, and then asks him a question, "Since I first locked you and the other prisoners into your rooms, have all of you been in this room yet?" The prisoner only has two possible answers. "Yes," or, "I'm not sure." If any prisoner answers "yes" but is wrong, they all will be beheaded. If a prisoner answers "yes," however, and is correct, all prisoners are granted full pardons and freed. After being asked that question and answering, the prisoner is then given an opportunity to turn the chalice upside down or right side up. If when he enters the room it is right side up, he can choose to leave it right side up or to turn it upside down, it's his choice. The same thing goes for if it is upside down when he enters the room. He can either choose to turn it upright or to leave it upside down. After the prisoner manipulates the chalice (or not, by his choice), he is sent back to his own cell and securely locked in.
+
+The king will call the prisoners in any order he pleases, and he can call and recall each prisoner as many times as he wants, as many times in a row as he wants. The only rule the king has to obey is that eventually he has to call every prisoner in an arbitrary number of times. So maybe he will call the first prisoner in a million times before ever calling in the second prisoner twice, we just don't know. But eventually we may be certain that each prisoner will be called in ten times, or twenty times, or any number you choose.
+
+Here's one last monkey wrench to toss in the gears, though. The king is allowed to manipulate the cup himself, k times, out of the view of any of the prisoners. That means the king may turn an upright cup upside down or vice versa up to k times, as he chooses, without the prisoners knowing about it. This does not mean the king must manipulate the cup any number of times at all, only that he may. 
+
+"
+
+Link
+

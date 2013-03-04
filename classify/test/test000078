@@ -1,0 +1,5 @@
+
+
+    Cross-site scripting describes a variety of attacks against web applications, tricking them into executing code that compromises security. In this article, Stephen Enright shows how a combination of filtering and proper encoding can prevent such attacks.
+   
+
